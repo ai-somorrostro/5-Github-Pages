@@ -1,0 +1,5 @@
+site_name: Mi Pagina Git1
+nav:
+  - Inicio: index.md
+  - Acerca de: about.md
+
