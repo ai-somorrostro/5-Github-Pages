@@ -52,7 +52,7 @@ Ahora, crearemos la estructura básica de nuestro sitio de documentación.
     cd mi-proyecto
     mkdocs serve
     ```
-    Este comando inicia un servidor local. Abre tu navegador y ve a `http://127.0.0.1:8000` para ver tu sitio. El servidor se recargará automáticamente cada vez que guardes un cambio en los archivos del proyecto.
+    Este comando inicia un servidor local. Abre tu navegador y ve a `http://127.0.0.1:8000` o la `IP de tu Maquina Virtual` para ver tu sitio. El servidor se recargará automáticamente cada vez que guardes un cambio en los archivos del proyecto.
 
 ---
 
