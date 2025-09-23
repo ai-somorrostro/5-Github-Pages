@@ -1,0 +1,7 @@
+site_name: Docs de Clemen
+
+theme: dracula
+
+nav:
+  - Home: index.md
+  - About: pagina2.md
