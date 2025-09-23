@@ -1,0 +1,5 @@
+site_name: Mikel Martinez
+
+nav:
+  - Inicio: index.md
+  - Acerca de: about.md
