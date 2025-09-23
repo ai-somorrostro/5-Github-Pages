@@ -1,0 +1,7 @@
+site_name: My Docs
+
+theme: dracula
+
+nav:
+  - Home: index.md
+  - About: pagina2.md
