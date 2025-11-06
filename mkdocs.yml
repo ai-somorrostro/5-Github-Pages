@@ -1,0 +1,19 @@
+# Nombre del sitio que aparecerá en la cabecera
+site_name: Oier Cadierno Duñabeitia
+site_description: 'Portfolio profesional de Oier Cadierno Duñabeitia - Técnico de Sistemas con especialización en IA y Big Data.'
+
+# 1. Usar el tema "material"
+theme:
+  name: cinder
+  language: es
+
+# 2. Indicar la carpeta de personalizaciones
+custom_dir: stylesheets
+
+# 3. Vincular la hoja de estilos personalizada
+extra_css:
+  - stylesheets/extra.css
+
+# Opcional pero recomendado para una navegación limpia
+nav:
+  - 'Inicio': index.md
